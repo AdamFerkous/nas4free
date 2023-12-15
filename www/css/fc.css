@@ -54,7 +54,7 @@ body {
 .filechooser .filelist table tr.sort a:hover {
 	text-decoration:underline;
 }
-/* parent row */
+/* parent row 1*/
 .filechooser .filelist table tr.parent {
 	font-weight:bold;
 	white-space: nowrap;
